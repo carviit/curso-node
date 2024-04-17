@@ -1,0 +1,30 @@
+Módulos são scripts reaproveitáveis
+
+
+Internos: Módulos que nós desenvolvemos
+
+Core Modules: Módulos que vem com o Node.js
+
+Externos: Módulos que instalamos via NPM
+
+
+Core Modules
+
+HTTP: Módulo para criar servidores HTTP;
+path: Extrair informações de paths(caminhos) de arquivos;
+fs: File System, leitura e escrita de arquivos;
+url: Módulo para trabalhar com URLs;
+
+npx cowsay "Texto"
+
+npx cowsay -d "TextoMorto"
+
+
+NPM Pacotes
+
+www.npmjs.com
+
+Ao baixar algum projeto em node deve se instalar as dependencias daquele projeto com o comando
+
+
+npm install 
